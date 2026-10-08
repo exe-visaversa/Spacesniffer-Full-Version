@@ -231,4 +231,4 @@ This repository serves as the official landing page for SpaceSniffer. The softwa
 **Get the most recent version of SpaceSniffer today!**
 
 ---
-**Last updated:** 2026-10-07 20:15:21 UTC
+**Last updated:** 2026-10-08 00:30:28 UTC
